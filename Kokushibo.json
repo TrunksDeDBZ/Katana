@@ -11,7 +11,7 @@
     "semanticColors": {
         "HEADER_PRIMARY": [
         
-            "#4e8478",
+            "#b43159",
             "#edd49b"
         ],
         "HEADER_SECONDARY": [
@@ -35,7 +35,7 @@
             "#d8c28f"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#4e8478",
+            "#b32646",
             "#d8c28f"
         ],
         "INTERACTIVE_MUTED": [
@@ -127,7 +127,7 @@
             "#7c6ea7"
         ],
         "TEXT_LINK": [
-            "#a297c3",
+            "#8f656f",
             "#a297c3"
         ],
         "KEYBOARD": [
@@ -136,7 +136,7 @@
         ],
         "CHANNEL_ICON": [
             "#000000",
-            "#e24964"
+            "#b32646"
         ]
     },
     "rawColors": {
@@ -146,7 +146,7 @@
     "PRIMARY_300": "#B6B6B6",
     "PRIMARY_360": "#4d4463",
     "PRIMARY_400": "#A9966A",
-    "PRIMARY_500": "#882521",
+    "PRIMARY_500": "#b32646",
     "PRIMARY_600": "#121114",
     "PRIMARY_630": "#262829",
     "PRIMARY_660": "#111013",

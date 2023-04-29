@@ -11,12 +11,12 @@
     "semanticColors": {
         "HEADER_PRIMARY": [
         
-            "#bb2747",
-            "#cb2450"
+            "#4e8478",
+            "#edd49b"
         ],
         "HEADER_SECONDARY": [
-            "#cb2450",
-            "#8d0b6d"
+            "#d8c28f",
+            "#d8c28f"
         ],
         "TEXT_NORMAL": [
             "#E9E9E9",
@@ -43,8 +43,8 @@
             "#c9bbc8"
         ],
         "BACKGROUND_PRIMARY": [
-            "#bb2747",
-            "#cb2450"
+            "#121114",
+            "#161519"
         ],
         "BACKGROUND_SECONDARY": [
             "#121114",
@@ -160,8 +160,8 @@
     "BRAND_NEW": "#a297c3",
     "YELLOW_300": "#d8c28f",
     "GREEN_360": "#882521",
-    "DANGER": "#991084",
-    "RED_400": "#e5c9bb"
+    "DANGER": "#625682",
+    "RED_400": "#838784"
     },
   
       "background": {

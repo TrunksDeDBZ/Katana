@@ -115,28 +115,28 @@
             "1a1926"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#100412",
-            "#100412"
+            "#C21A65",
+            "#D7156C"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#111111",
             "#111111"
         ],
         "CHANNELS_DEFAULT": [
-            "#100412",
-            "#100412"
+            "#414141",
+            "#7c6ea7"
         ],
         "TEXT_LINK": [
-            "#100412",
-            "#100412"
+            "#8f656f",
+            "#a297c3"
         ],
         "KEYBOARD": [
             "#140718",
             "#d43b4e"
         ],
         "CHANNEL_ICON": [
-            "#100412",
-            "#100412"
+            "#000000",
+            "#b32646"
         ]
     },
     "rawColors": {

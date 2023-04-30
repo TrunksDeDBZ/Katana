@@ -87,13 +87,13 @@
             "#100412"
         ],
         "CHANNELS_DEFAULT": [
-            "#c4c4c4"
+            "#100412"
         ],
         "TEXT_LINK": [
-            "#44ddd5"
+            "#100412"
         ],
         "CHANNEL_ICON": [
-            "#ffffff"
+            "#100412"
         ]
     },
     "rawColors": {

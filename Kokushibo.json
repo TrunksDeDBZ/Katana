@@ -126,6 +126,9 @@
             "#414141",
             "#7c6ea7"
         ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#100412"   
+        ],
         "TEXT_LINK": [
             "#8f656f",
             "#a297c3"

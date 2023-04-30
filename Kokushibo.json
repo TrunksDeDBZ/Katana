@@ -103,8 +103,8 @@
             "#26273b"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "#100412",
-            "#100412"
+            "transparent",
+            "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#26273b",

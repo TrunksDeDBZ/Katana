@@ -137,6 +137,9 @@
         "CHANNEL_ICON": [
             "#000000",
             "#b32646"
+        ],
+        "CHAT_BACKGROUND": [
+            "#100412"   
         ]
     },
     "rawColors": {

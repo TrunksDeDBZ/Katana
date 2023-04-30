@@ -95,8 +95,8 @@
             "#1a1926"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#100412",
-            "#100412"
+            "#29272E",
+            "#29272E"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#26273b",
@@ -111,8 +111,8 @@
             "#26273b"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#100412",
-            "#100412"
+            "1a1926",
+            "1a1926"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#C21A65",
@@ -137,10 +137,6 @@
         "CHANNEL_ICON": [
             "#000000",
             "#b32646"
-        ],
-        "CHAT_BACKGROUND": [
-            "#100412",
-            "#100412"
         ]
     },
     "rawColors": {

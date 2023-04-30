@@ -91,8 +91,8 @@
             "#1F1F2B"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#EB0948",
-            "#EB0948"
+            "#1a1926",
+            "#1a1926"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#29272E",
@@ -136,7 +136,7 @@
         ],
         "CHANNEL_ICON": [
             "#000000",
-            "#e24964"
+            "#b32646"
         ]
     },
     "rawColors": {
